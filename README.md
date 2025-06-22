@@ -7,10 +7,9 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **Anime Nexus Explorer** & **Anime API**
+- 🔭 I’m currently working on: **Discord Gacha Bot**
 - 🌱 I’m learning: **Advanced TypeScript**, **Next.js**, and **3D for Web**
-- 👯 I’m looking to collaborate on: **anime open source projects**
-- 🎨 I’m also a digital artist and asset creator on [Itch.io](https://kage11.itch.io/)
+- 👯 I’m looking to collaborate on: **NONE**
 - ⚡ Fun fact: I love blending creative art with functional code!
 
 ---
@@ -38,7 +37,6 @@
 |------|-------------|
 | [🎯 Anime Nexus Explorer](https://github.com/kage-art/anime-nexus-explorer) | Powerful anime search tool using TypeScript |
 | [🛰️ Anime API](https://github.com/kage-art/Anime-API) | Anime scraping API built with Node.js & Puppeteer |
-| [🎮 My Game Assets](https://kage11.itch.io/) | Assets and mini-projects in game dev and animation |
 
 ---
 
