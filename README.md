@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **Discord Gacha Bot**
+- 🔭 I’m currently working on: **PawMed App**
 - 🌱 I’m learning: **Advanced TypeScript**, **Next.js**, and **3D for Web**
 - 👯 I’m looking to collaborate on: **NONE**
 - ⚡ Fun fact: I love blending creative art with functional code!
@@ -39,15 +39,6 @@
 | [🛰️ Anime API](https://github.com/kage-art/Anime-API) | Anime scraping API built with Node.js & Puppeteer |
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kage-art&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
