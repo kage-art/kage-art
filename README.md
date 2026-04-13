@@ -30,15 +30,6 @@
 </div>
 
 ---
-
-## 🧩 Projects
-
-| Name | Description |
-|------|-------------|
-| [🎯 Anime Nexus Explorer](https://github.com/kage-art/anime-nexus-explorer) | Powerful anime search tool using TypeScript |
-| [🛰️ Anime API](https://github.com/kage-art/Anime-API) | Anime scraping API built with Node.js & Puppeteer |
-
----
 ## 🔥 GitHub Streak
 
 <p align="center">
