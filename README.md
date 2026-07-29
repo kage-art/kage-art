@@ -21,15 +21,6 @@
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kage-art&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kage-art&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</div>
-
----
 ## 🔥 GitHub Streak
 
 <p align="center">
