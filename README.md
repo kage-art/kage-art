@@ -1,4 +1,3 @@
-```markdown
 <!--
 ============================================================
   KAGE_OS  –  CYBER SECURITY PROFILE README
