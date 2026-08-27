@@ -1,45 +1,52 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00d9ff&height=200&section=header&text=KAGE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20ONLINE%20%E2%80%A2%20CYBER%20SECURITY%20LAB&descAlignY=55&descAlign=50" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kairo+;IndDev+%2F+Digital+Artist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <a href="https://kage-art.github.io">
+    <img src="https://img.shields.io/badge/ENTER_THE_LAB-%E2%96%B6_LIVE_3D_EXPERIENCE-00d9ff?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%3E+Initializing+Kage+OS...;Cyber+Security+Student+%7C+Bug+Bounty+Hunter;Linux+%7C+HTB+%7C+TryHackMe+%7C+CTF+Player;Click+ENTER+THE+LAB+for+full+3D+mode" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kage-art&label=VISITORS&color=00d9ff&style=flat&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/STATUS-HUNTING-00d9ff?style=flat&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/FOCUS-BUG_BOUNTY-ff00aa?style=flat&labelColor=0a0a0f" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,kali,arch,docker,git,vscode&perline=8" />
 </p>
 
 ---
 
-## 🧠 About Me
+<details open>
+<summary><b>🧬 SYSTEM // ABOUT ME</b> - click to collapse</summary>
+<br>
 
-- 🔭 I’m currently working on: **PawMed App**
-- 🌱 I’m learning: **Advanced TypeScript**, **Next.js**, and **3D for Web**
-- 👯 I’m looking to collaborate on: **NONE**
-- ⚡ Fun fact: I love blending creative art with functional code!
+```js
+const kage = {
+  user: "Kairo // kage-art",
+  role: "Cyber Security Student",
+  location: "The Terminal",
+  currentFocus: ["Linux PrivEsc", "Web Exploitation", "Active Directory", "Bug Bounty"],
+  labs: ["HackTheBox", "TryHackMe", "PortSwigger Web Academy"],
+  philosophy: "Break it to learn how to secure it"
+}
+Former IndDev/Digital Artist now fully in Offensive Security. I don't just code — I deconstruct systems.
 
----
+💎 ARSENAL // GLASS STACK - click to expand
+Layer	Tools
+OS & Network	Kali • Parrot • Nmap • Wireshark • Linux PrivEsc
+Web Hacking	Burp Suite • OWASP Top 10 • SQLi • XSS • SSRF • IDOR
+Exploitation	Metasploit • PrivEsc • AD Enumeration • Python/Bash Automation
+🧪 LABS // PROGRESS - click to expand
+📊 STATS // GLASS PANEL
 
-## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,mongodb,html,css,git,vscode&perline=8" />
-</div>
+^ Your real 3D contribution graph - moves with mouse on profile
 
----
-## 🔥 GitHub Streak
+🌐 CONNECT // ESTABLISH LINK
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kage-art&theme=tokyonight&hide_border=true" />
-</p>
 
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:kageartdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://kage11.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-  <a href="https://github.com/kage-art"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-## 📜 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+``
